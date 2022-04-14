@@ -1,4 +1,4 @@
-# automation-and-testing-script
+# Automation-And-Testing-Script
 Automation Scripts and Testing Scripts for SE Project Website
 
 Contact Us Testing and Shopping Cart testing uses Selenium to open the website automatically in Chrome Driver and feeds the inputs
